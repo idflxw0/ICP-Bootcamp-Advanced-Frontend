@@ -9,8 +9,14 @@
     "dev": "vite"
   },
   "dependencies": {
+    "@dfinity/agent": "^2.3.0",
+    "@dfinity/auth-client": "^2.3.0",
+    "@dfinity/principal": "^2.3.0",
+    "@nfid/identitykit": "^1.0.10",
+    "js-sha256": "^0.11.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.12",
